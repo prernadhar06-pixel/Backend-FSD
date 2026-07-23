@@ -1,0 +1,14 @@
+git commit
+git status 
+git init 
+git add file_name/.
+git commit -m "msg"
+git remote origin add
+githubrepo url
+git branch -M main
+git push -u origin main
+cloud to local repo 
+git close urlother git command
+git log 
+git checkout
+
