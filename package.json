@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prernadhar06-pixel/Backend-FSD"
+  },
+  "keywords": [],
+  "author": "prerna",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prernadhar06-pixel/Backend-FSD"
+  },
+  "homepage": "https://github.com/prernadhar06-pixel/Backend-FSD#readme"
+}
