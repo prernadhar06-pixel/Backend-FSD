@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/prernadhar06-pixel/Backend-FSD"
   },
-  "homepage": "https://github.com/prernadhar06-pixel/Backend-FSD#readme"
+  "homepage": "https://github.com/prernadhar06-pixel/Backend-FSD#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
 }
